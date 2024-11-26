@@ -7,7 +7,7 @@ module.exports.alldown = (url) =>
 
       resolve({
         status: true,
-        dev: "Mohammed Rana",
+        dev: "Mohammad Rana",
         devfb: "https://www./facebook.com/rana.is.busy.okay",
         devwp: "wa.me/+8801752865115", 
         data: data || msg,
