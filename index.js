@@ -9,7 +9,7 @@ module.exports.alldown = (url) =>
         status: true,
         dev: "Mohammad Rana",
         devfb: "https://www./facebook.com/rana.is.busy.okay",
-        devwp: "wa.me/+8801752865115", 
+        devwp: "wa.me/+8801988686406", 
         data: data || msg,
       });
     } catch (error) {
