@@ -7,9 +7,9 @@ module.exports.alldown = (url) =>
 
       resolve({
         status: true,
-        dev: "Your Name",
-        devfb: "Your fb account",
-        devwp: "wp number", 
+        dev: "Mohammed Rana",
+        devfb: "https://www./facebook.com/rana.is.busy.okay",
+        devwp: "wa.me/+8801752865115", 
         data: data || msg,
       });
     } catch (error) {
